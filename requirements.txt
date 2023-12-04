@@ -1,0 +1,3 @@
+numpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numpy_and_numpy_base_1699237461356/work/dist/numpy-1.26.0-cp312-cp312-macosx_11_0_arm64.whl#sha256=756e4a258cacec6e82dc38e4cd0f3e36131e18ab0f5617317590f86b5cb48c67
+setuptools==68.0.0
+wheel==0.41.2
